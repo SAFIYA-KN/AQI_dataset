@@ -41,10 +41,12 @@ headers = [
     "pollutant_avg"
 ]
 
-# Write to CSV
-with open(CSV_FILE, "w", newline="", encoding="utf-8") as file:
+#Write to CSV
+write_headers = not os.path.exists(CSV_FILE)
+with open(CSV_FILE, "a", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
-    writer.writerow(headers)
+    if write_headers:
+        writer.writerow(headers)
 
     for r in data.get("records", []):
         writer.writerow([ today_date,
@@ -60,7 +62,6 @@ with open(CSV_FILE, "w", newline="", encoding="utf-8") as file:
         r.get("max_value"),
         r.get("avg_value")
     ])
-
 print(f"Daily AQI dataset saved as {CSV_FILE}")
 os.system("git add daily_data/*.csv")
 os.system(f'git commit -m "AQI update {datetime.now()}"')
