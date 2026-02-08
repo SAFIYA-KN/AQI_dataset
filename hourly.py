@@ -49,7 +49,7 @@ with open(CSV_FILE, "a", newline="", encoding="utf-8") as file:
         writer.writerow(headers)
 
     for r in data.get("records", []):
-        writer.writerow([ today_date,
+        writer.writerow([datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         r.get("country"),
         r.get("state"),
         r.get("city"),
