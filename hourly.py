@@ -62,3 +62,6 @@ with open(CSV_FILE, "w", newline="", encoding="utf-8") as file:
     ])
 
 print(f"Daily AQI dataset saved as {CSV_FILE}")
+os.system("git add daily_data/*.csv")
+os.system(f'git commit -m "AQI update {datetime.now()}"')
+os.system("git push origin main")
