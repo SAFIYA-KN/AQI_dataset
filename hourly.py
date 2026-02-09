@@ -8,6 +8,7 @@ API_KEY = os.environ.get("DATA_GOV_API_KEY")
 
 URL = "https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?api-key=579b464db66ec23bdd000001fc3f393d3117471359d8f9458a795e37&format=csv"
 
+URL = "https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69"
 PARAMS = {
     "api-key": API_KEY,
     "format": "json",
