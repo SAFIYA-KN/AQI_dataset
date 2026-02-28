@@ -1499,3 +1499,103 @@ download_date,country,state,city,station,last_update,latitude,longitude,pollutan
 2026-02-28 18:36:11,India,Bihar,Siwan,"Chitragupta Nagar, Siwan - BSPCB",28-02-2026 23:00:00,26.2271665,84.3570427,PM10,49,87,69
 2026-02-28 18:36:11,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",28-02-2026 23:00:00,30.735567,76.775714,PM2.5,22,92,59
 2026-02-28 18:36:11,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",28-02-2026 23:00:00,30.735567,76.775714,CO,54,98,71
+2026-02-28 19:22:17,India,Meghalaya,Shillong,"JN Stadium, Shillong - Meghalaya PCB",01-03-2026 00:00:00,25.5803419,91.8942571,PM2.5,NA,NA,NA
+2026-02-28 19:22:17,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",01-03-2026 00:00:00,25.204762,85.514960,PM2.5,NA,NA,NA
+2026-02-28 19:22:17,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",01-03-2026 00:00:00,25.204762,85.514960,PM10,NA,NA,NA
+2026-02-28 19:22:17,India,Meghalaya,Shillong,"JN Stadium, Shillong - Meghalaya PCB",01-03-2026 00:00:00,25.5803419,91.8942571,NH3,21,33,26
+2026-02-28 19:22:17,India,Bihar,Buxar,"Charitra Van, Buxar - BSPCB",01-03-2026 00:00:00,25.567520,83.966379,PM10,41,102,65
+2026-02-28 19:22:17,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",01-03-2026 00:00:00,25.5586,91.8985,PM2.5,1,23,13
+2026-02-28 19:22:17,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",01-03-2026 00:00:00,25.5586,91.8985,SO2,13,19,15
+2026-02-28 19:22:17,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",01-03-2026 00:00:00,28.406963,77.849831,CO,10,62,44
+2026-02-28 19:22:17,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",01-03-2026 00:00:00,25.5586,91.8985,CO,8,18,14
+2026-02-28 19:22:17,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",01-03-2026 00:00:00,27.168897,78.376960,PM2.5,24,97,52
+2026-02-28 19:22:17,India,Bihar,Buxar,"Charitra Van, Buxar - BSPCB",01-03-2026 00:00:00,25.567520,83.966379,OZONE,1,37,10
+2026-02-28 19:22:17,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",01-03-2026 00:00:00,27.168897,78.376960,PM10,31,106,70
+2026-02-28 19:22:17,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",01-03-2026 00:00:00,23.7176342,92.7192841,PM10,57,60,58
+2026-02-28 19:22:17,India,Rajasthan,Kota,"Dhanmandi, Kota - RSPCB",01-03-2026 00:00:00,25.164090,75.858137,PM10,33,196,85
+2026-02-28 19:22:17,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",01-03-2026 00:00:00,23.7176342,92.7192841,SO2,17,18,17
+2026-02-28 19:22:17,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",01-03-2026 00:00:00,25.7808257,84.7446768,PM10,NA,NA,NA
+2026-02-28 19:22:17,India,Rajasthan,Kota,"Dhanmandi, Kota - RSPCB",01-03-2026 00:00:00,25.164090,75.858137,NO2,19,125,49
+2026-02-28 19:22:17,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",01-03-2026 00:00:00,25.7808257,84.7446768,NH3,NA,NA,NA
+2026-02-28 19:22:17,India,Rajasthan,Kota,"Dhanmandi, Kota - RSPCB",01-03-2026 00:00:00,25.164090,75.858137,NH3,7,12,9
+2026-02-28 19:22:17,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",01-03-2026 00:00:00,27.168897,78.376960,OZONE,1,15,11
+2026-02-28 19:22:17,India,Rajasthan,Kota,"Dhanmandi, Kota - RSPCB",01-03-2026 00:00:00,25.164090,75.858137,SO2,3,18,7
+2026-02-28 19:22:17,India,Uttar_Pradesh,Firozabad,"Vibhab Nagar, Firozabad - UPPCB",01-03-2026 00:00:00,27.1594,78.3953,PM2.5,26,71,46
+2026-02-28 19:22:17,India,Rajasthan,Kota,"Dhanmandi, Kota - RSPCB",01-03-2026 00:00:00,25.164090,75.858137,CO,18,120,79
+2026-02-28 19:22:17,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",01-03-2026 00:00:00,25.7808257,84.7446768,OZONE,NA,NA,NA
+2026-02-28 19:22:17,India,Nagaland,Kohima,"PWD Junction, Kohima - NPCB",01-03-2026 00:00:00,25.6635413,94.0989878,NH3,1,1,1
+2026-02-28 19:22:17,India,Uttar_Pradesh,Firozabad,"Vibhab Nagar, Firozabad - UPPCB",01-03-2026 00:00:00,27.1594,78.3953,NO2,15,15,15
+2026-02-28 19:22:17,India,Rajasthan,Kota,"Nayapura, Kota - RSPCB",01-03-2026 00:00:00,25.196024,75.855668,NO2,3,104,33
+2026-02-28 19:22:17,India,Nagaland,Kohima,"PWD Junction, Kohima - NPCB",01-03-2026 00:00:00,25.6635413,94.0989878,OZONE,2,7,2
+2026-02-28 19:22:17,India,Odisha,Angul,"Hakimapada, Angul - OSPCB",01-03-2026 00:00:00,20.832874,85.104082,NO2,17,48,36
+2026-02-28 19:22:17,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",01-03-2026 00:00:00,28.646233,77.358075,NO2,33,140,82
+2026-02-28 19:22:17,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",01-03-2026 00:00:00,25.14389,75.821256,PM2.5,45,216,85
+2026-02-28 19:22:17,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",01-03-2026 00:00:00,24.792403,84.992416,NH3,1,2,1
+2026-02-28 19:22:17,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",01-03-2026 00:00:00,28.646233,77.358075,SO2,12,39,19
+2026-02-28 19:22:17,India,Odisha,Angul,"Hakimapada, Angul - OSPCB",01-03-2026 00:00:00,20.832874,85.104082,CO,6,90,66
+2026-02-28 19:22:17,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",01-03-2026 00:00:00,25.14389,75.821256,NO2,4,13,9
+2026-02-28 19:22:17,India,Odisha,Angul,"Hakimapada, Angul - OSPCB",01-03-2026 00:00:00,20.832874,85.104082,OZONE,26,300,150
+2026-02-28 19:22:17,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",01-03-2026 00:00:00,28.646233,77.358075,OZONE,10,15,12
+2026-02-28 19:22:17,India,Odisha,Balasore,"Kalidaspur, Balasore - OSPCB",01-03-2026 00:00:00,21.51161,86.89088,PM10,82,129,107
+2026-02-28 19:22:17,India,Odisha,Balasore,"Kalidaspur, Balasore - OSPCB",01-03-2026 00:00:00,21.51161,86.89088,NO2,10,29,18
+2026-02-28 19:22:17,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",01-03-2026 00:00:00,28.757294,77.278792,PM10,166,493,312
+2026-02-28 19:22:17,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",01-03-2026 00:00:00,24.762518,84.982348,NH3,4,4,4
+2026-02-28 19:22:17,India,Rajasthan,Nagaur,"Karni Colony, Nagaur - RSPCB",01-03-2026 00:00:00,27.213494,73.734444,SO2,4,16,9
+2026-02-28 19:22:17,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",01-03-2026 00:00:00,24.762518,84.982348,CO,19,43,31
+2026-02-28 19:22:17,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",01-03-2026 00:00:00,24.762518,84.982348,OZONE,1,54,22
+2026-02-28 19:22:17,India,Odisha,Barbil,"Forest Office, Barbil - OSPCB",01-03-2026 00:00:00,22.1166054,85.3945546,SO2,10,43,22
+2026-02-28 19:22:17,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",01-03-2026 00:00:00,25.771061, 73.340227,NO2,13,35,23
+2026-02-28 19:22:17,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",01-03-2026 00:00:00,25.697189,85.245900,SO2,6,10,8
+2026-02-28 19:22:17,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",01-03-2026 00:00:00,28.6603346,77.3572563,PM2.5,82,347,229
+2026-02-28 19:22:17,India,Odisha,Baripada,"Meher Colony, Baripada - OSPCB",01-03-2026 00:00:00,21.941841,86.728318,NO2,2,20,9
+2026-02-28 19:22:17,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",01-03-2026 00:00:00,25.771061, 73.340227,OZONE,8,74,26
+2026-02-28 19:22:17,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",01-03-2026 00:00:00,25.560083,87.553265,PM2.5,27,160,58
+2026-02-28 19:22:17,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",01-03-2026 00:00:00,28.6603346,77.3572563,SO2,NA,NA,NA
+2026-02-28 19:22:17,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",01-03-2026 00:00:00,25.560083,87.553265,SO2,14,20,16
+2026-02-28 19:22:17,India,Rajasthan,Pratapgarh,"Pragati Nagar, Pratapgarh - RSPCB",01-03-2026 00:00:00,24.041198,74.780702,SO2,7,11,9
+2026-02-28 19:22:17,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",01-03-2026 00:00:00,26.730136,83.433859,SO2,43,45,45
+2026-02-28 19:22:17,India,Odisha,Bhubaneswar,"Lingraj Mandir, Bhubaneswar - OSPCB",01-03-2026 00:00:00,20.240790,85.836784,SO2,6,34,14
+2026-02-28 19:22:17,India,Rajasthan,Rajsamand,"Dhoinda, Rajsamand - RSPCB",01-03-2026 00:00:00,25.036360,73.883502,PM2.5,17,90,45
+2026-02-28 19:22:17,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",01-03-2026 00:00:00,26.0881305,87.93840336,NO2,9,12,11
+2026-02-28 19:22:17,India,Odisha,Bhubaneswar,"Lingraj Mandir, Bhubaneswar - OSPCB",01-03-2026 00:00:00,20.240790,85.836784,OZONE,14,188,60
+2026-02-28 19:22:17,India,Rajasthan,Rajsamand,"Dhoinda, Rajsamand - RSPCB",01-03-2026 00:00:00,25.036360,73.883502,NH3,NA,NA,NA
+2026-02-28 19:22:17,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",01-03-2026 00:00:00,28.47272,77.482000,PM2.5,36,339,187
+2026-02-28 19:22:17,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",01-03-2026 00:00:00,26.0881305,87.93840336,SO2,7,11,8
+2026-02-28 19:22:17,India,Rajasthan,Rajsamand,"Dhoinda, Rajsamand - RSPCB",01-03-2026 00:00:00,25.036360,73.883502,SO2,2,10,5
+2026-02-28 19:22:17,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",01-03-2026 00:00:00,26.0881305,87.93840336,CO,17,22,20
+2026-02-28 19:22:17,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",01-03-2026 00:00:00,28.47272,77.482000,NO2,14,108,66
+2026-02-28 19:22:17,India,Rajasthan,Rajsamand,"Dhoinda, Rajsamand - RSPCB",01-03-2026 00:00:00,25.036360,73.883502,CO,27,102,84
+2026-02-28 19:22:17,India,Odisha,Bhubaneswar,"Patia, Bhubaneswar - OSPCB",01-03-2026 00:00:00,20.34652,85.81630,SO2,6,66,16
+2026-02-28 19:22:17,India,TamilNadu,Coimbatore,"PSG College of Arts and Science, Coimbatore - TNPCB",01-03-2026 00:00:00,11.0328,77.0349,OZONE,4,7,5
+2026-02-28 19:22:17,India,Maharashtra,Nashik,"MIDC Ambad, Nashik - MPCB",01-03-2026 00:00:00,19.950220,73.731480,CO,28,32,31
+2026-02-28 19:22:17,India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-03-2026 00:00:00,13.204880,79.097889,PM10,53,68,60
+2026-02-28 19:22:17,India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-03-2026 00:00:00,13.204880,79.097889,NO2,26,30,29
+2026-02-28 19:22:17,India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-03-2026 00:00:00,13.204880,79.097889,NH3,6,7,6
+2026-02-28 19:22:17,India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-03-2026 00:00:00,13.204880,79.097889,SO2,12,13,13
+2026-02-28 19:22:17,India,TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB",01-03-2026 00:00:00,10.942451,76.978996,OZONE,18,45,21
+2026-02-28 19:22:17,India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-03-2026 00:00:00,13.204880,79.097889,CO,20,24,22
+2026-02-28 19:22:17,India,Rajasthan,Bhilwara,"Pratap Nagar, Bhilwara - RSPCB",01-03-2026 00:00:00,25.339605,74.618883,PM2.5,25,140,66
+2026-02-28 19:22:17,India,Maharashtra,Nashik,"Pandav Nagari, Nashik - MPCB",01-03-2026 00:00:00,19.9591346,73.7788008,CO,5,19,11
+2026-02-28 19:22:17,India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",01-03-2026 00:00:00,14.465052,78.824187,PM10,70,85,78
+2026-02-28 19:22:17,India,Maharashtra,Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",01-03-2026 00:00:00,19.090337,73.014232,PM2.5,49,233,97
+2026-02-28 19:22:17,India,Maharashtra,Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",01-03-2026 00:00:00,19.090337,73.014232,NO2,10,46,23
+2026-02-28 19:22:17,India,TamilNadu,Perundurai,"SIPCOT Industrial Park, Perundurai - TNPCB",01-03-2026 00:00:00,11.258242,77.552761,CO,41,45,43
+2026-02-28 19:22:17,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",01-03-2026 00:00:00,19.1135051,73.008978,PM2.5,34,166,76
+2026-02-28 19:22:17,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",01-03-2026 00:00:00,19.1135051,73.008978,PM10,49,127,94
+2026-02-28 19:22:17,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",01-03-2026 00:00:00,19.1135051,73.008978,NO2,84,86,85
+2026-02-28 19:22:17,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",01-03-2026 00:00:00,16.9872867,81.7363176,CO,24,48,34
+2026-02-28 19:22:17,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",01-03-2026 00:00:00,8.816428 ,78.099039,SO2,4,17,12
+2026-02-28 19:22:17,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",01-03-2026 00:00:00,28.194909,76.862296,OZONE,6,48,12
+2026-02-28 19:22:17,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",01-03-2026 00:00:00,8.816428 ,78.099039,CO,21,42,36
+2026-02-28 19:22:17,India,Rajasthan,Bhiwadi,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",01-03-2026 00:00:00,28.207266,76.829265,PM2.5,37,435,189
+2026-02-28 19:22:17,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",01-03-2026 00:00:00,17.540891,78.358528,NH3,3,5,4
+2026-02-28 19:22:17,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",01-03-2026 00:00:00,27.19412,77.96237,OZONE,1,10,2
+2026-02-28 19:22:17,India,Maharashtra,Solapur,"Ratandeep Housing Society, Solapur - MPCB",01-03-2026 00:00:00,17.65439,75.90649,CO,6,155,90
+2026-02-28 19:22:17,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",01-03-2026 00:00:00,24.75746,84.366208,CO,101,102,102
+2026-02-28 19:22:17,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",01-03-2026 00:00:00,27.169338,78.03582,PM2.5,12,102,36
+2026-02-28 19:22:17,India,Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",01-03-2026 00:00:00,19.26777,72.97182,PM2.5,32,50,41
+2026-02-28 19:22:17,India,Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",01-03-2026 00:00:00,19.26777,72.97182,PM10,59,106,79
+2026-02-28 19:22:17,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",01-03-2026 00:00:00,27.169338,78.03582,NH3,3,3,3
+2026-02-28 19:22:17,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",01-03-2026 00:00:00,27.169338,78.03582,SO2,40,58,48
+2026-02-28 19:22:17,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",01-03-2026 00:00:00,26.268249,73.0193853,CO,5,111,72
+2026-02-28 19:22:17,India,Bihar,Begusarai,"Lohiyanagar, Begusarai - BSPCB",01-03-2026 00:00:00,25.42742023,86.13886079,CO,23,30,27
