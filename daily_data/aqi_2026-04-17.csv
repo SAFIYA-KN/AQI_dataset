@@ -1,0 +1,101 @@
+download_date,country,state,city,station,last_update,latitude,longitude,pollutant_id,pollutant_min,pollutant_max,pollutant_avg
+2026-04-17 02:45:05,India,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",17-04-2026 07:00:00,26.80365,84.51954,PM10,14,56,27
+2026-04-17 02:45:05,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",17-04-2026 07:00:00,25.251013,86.989001,PM10,40,103,59
+2026-04-17 02:45:05,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",17-04-2026 07:00:00,25.251013,86.989001,NO2,9,13,12
+2026-04-17 02:45:05,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",17-04-2026 07:00:00,25.251013,86.989001,CO,22,55,32
+2026-04-17 02:45:05,India,Bihar,Bhagalpur,"DM Office_Kachari Chowk, Bhagalpur - BSPCB",17-04-2026 07:00:00,25.251013,86.989001,OZONE,11,26,16
+2026-04-17 02:45:05,India,Bihar,Bhagalpur,"Mayaganj, Bhagalpur - BSPCB",17-04-2026 07:00:00,25.265194,87.012947,SO2,52,64,57
+2026-04-17 02:45:05,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",17-04-2026 07:00:00,25.204762,85.514960,NO2,9,10,9
+2026-04-17 02:45:05,India,Bihar,Bihar Sharif,"D M Colony, Bihar Sharif - BSPCB",17-04-2026 07:00:00,25.204762,85.514960,NH3,3,3,3
+2026-04-17 02:45:05,India,Bihar,Buxar,"Charitra Van, Buxar - BSPCB",17-04-2026 07:00:00,25.567520,83.966379,NO2,9,10,9
+2026-04-17 02:45:05,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",17-04-2026 07:00:00,25.7808257,84.7446768,PM10,68,90,76
+2026-04-17 02:45:05,India,Bihar,Chhapra,"Darshan Nagar, Chhapra - BSPCB",17-04-2026 07:00:00,25.7808257,84.7446768,OZONE,4,25,5
+2026-04-17 02:45:05,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",17-04-2026 07:00:00,24.7955,84.9994,PM2.5,47,309,100
+2026-04-17 02:45:05,India,Andhra_Pradesh,Guntur,"Rajendra Nagar North, Guntur - APPCB",17-04-2026 07:00:00,16.316553,80.413302,PM2.5,40,99,52
+2026-04-17 02:45:05,India,Andhra_Pradesh,Guntur,"Rajendra Nagar North, Guntur - APPCB",17-04-2026 07:00:00,16.316553,80.413302,SO2,7,33,12
+2026-04-17 02:45:05,India,Andhra_Pradesh,Guntur,"Rajendra Nagar North, Guntur - APPCB",17-04-2026 07:00:00,16.316553,80.413302,CO,10,30,14
+2026-04-17 02:45:05,India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",17-04-2026 07:00:00,14.465052,78.824187,NH3,4,8,5
+2026-04-17 02:45:05,India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",17-04-2026 07:00:00,14.465052,78.824187,CO,27,40,29
+2026-04-17 02:45:05,India,Andhra_Pradesh,Machilipatnam,"Srinivas Nagar Colony, Machilipatnam - APPCB",17-04-2026 07:00:00,16.186555,81.13219,SO2,13,22,15
+2026-04-17 02:45:05,India,Andhra_Pradesh,Machilipatnam,"Srinivas Nagar Colony, Machilipatnam - APPCB",17-04-2026 07:00:00,16.186555,81.13219,CO,10,54,10
+2026-04-17 02:45:05,India,Andhra_Pradesh,Nellore,"Ambedkar Nagar, Nellore - APPCB ",17-04-2026 07:00:00,14.438164 ,79.966814 ,PM10,19,93,52
+2026-04-17 02:45:05,India,Andhra_Pradesh,Nellore,"Ambedkar Nagar, Nellore - APPCB ",17-04-2026 07:00:00,14.438164 ,79.966814 ,OZONE,4,26,5
+2026-04-17 02:45:05,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",17-04-2026 07:00:00,16.9872867,81.7363176,NO2,NA,NA,NA
+2026-04-17 02:45:05,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",17-04-2026 07:00:00,16.9872867,81.7363176,NH3,NA,NA,NA
+2026-04-17 02:45:05,India,Andhra_Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",17-04-2026 07:00:00,13.67,79.35,CO,16,34,19
+2026-04-17 02:45:05,India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",17-04-2026 07:00:00,13.615387,79.409230,PM2.5,52,66,59
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",17-04-2026 07:00:00,16.536107,80.594233,NO2,13,27,17
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",17-04-2026 07:00:00,16.536107,80.594233,SO2,9,18,13
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",17-04-2026 07:00:00,16.536107,80.594233,CO,27,39,28
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",17-04-2026 07:00:00,16.536107,80.594233,OZONE,19,43,19
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"Kanuru, Vijayawada - APPCB",17-04-2026 07:00:00,16.486692,80.699436,PM10,43,69,53
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"Kanuru, Vijayawada - APPCB",17-04-2026 07:00:00,16.486692,80.699436,OZONE,NA,NA,NA
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",17-04-2026 07:00:00,16.509717,80.612222,PM2.5,42,60,53
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",17-04-2026 07:00:00,16.509717,80.612222,PM10,40,56,50
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",17-04-2026 07:00:00,16.509717,80.612222,NO2,19,22,20
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",17-04-2026 07:00:00,16.509717,80.612222,CO,38,53,43
+2026-04-17 02:45:05,India,Bihar,Katihar,"Mirchaibari, Katihar - BSPCB",17-04-2026 07:00:00,25.560083,87.553265,OZONE,5,18,6
+2026-04-17 02:45:05,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",17-04-2026 07:00:00,26.0881305,87.93840336,PM10,25,41,33
+2026-04-17 02:45:05,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",17-04-2026 07:00:00,26.0881305,87.93840336,SO2,7,11,9
+2026-04-17 02:45:05,India,Bihar,Kishanganj,"SDM Office_Khagra, Kishanganj - BSPCB",17-04-2026 07:00:00,26.0881305,87.93840336,OZONE,32,35,33
+2026-04-17 02:45:05,India,Bihar,Manguraha,"Forest Rest House, Manguraha - BSPCB",17-04-2026 07:00:00,27.308328,84.531742,PM10,NA,NA,NA
+2026-04-17 02:45:05,India,Bihar,Motihari,"Gandak Colony, Motihari - BSPCB",17-04-2026 07:00:00,26.63086,84.90051,SO2,2,3,3
+2026-04-17 02:45:05,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",17-04-2026 07:00:00,26.11442,85.39813,PM2.5,65,122,87
+2026-04-17 02:45:05,India,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",17-04-2026 07:00:00,26.181742,91.78063,PM10,31,96,53
+2026-04-17 02:45:05,India,Assam,Guwahati,"Railway Colony, Guwahati - PCBA",17-04-2026 07:00:00,26.181742,91.78063,OZONE,1,3,1
+2026-04-17 02:45:05,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",17-04-2026 07:00:00,26.349082,92.68449,PM2.5,37,90,62
+2026-04-17 02:45:05,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",17-04-2026 07:00:00,26.349082,92.68449,NO2,1,4,1
+2026-04-17 02:45:05,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",17-04-2026 07:00:00,26.349082,92.68449,NH3,NA,NA,NA
+2026-04-17 02:45:05,India,Assam,Nagaon,"Christianpatty, Nagaon - PCBA",17-04-2026 07:00:00,26.349082,92.68449,SO2,12,14,12
+2026-04-17 02:45:05,India,Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",17-04-2026 07:00:00,26.446912,91.439057,NO2,14,16,14
+2026-04-17 02:45:05,India,Assam,Nalbari,"Bata Chowk, Nalbari - PCBA",17-04-2026 07:00:00,26.446912,91.439057,SO2,4,8,8
+2026-04-17 02:45:05,India,Assam,Silchar,"Tarapur, Silchar - PCBA",17-04-2026 07:00:00,24.82827,92.79525,OZONE,2,4,2
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"Rajiv Nagar, Vijayawada - APPCB",17-04-2026 07:00:00,16.554731,80.649110,PM10,43,77,63
+2026-04-17 02:45:05,India,Andhra_Pradesh,Vijayawada,"Rajiv Nagar, Vijayawada - APPCB",17-04-2026 07:00:00,16.554731,80.649110,OZONE,25,41,35
+2026-04-17 02:45:05,India,Arunachal_Pradesh,Naharlagun,"Naharlagun, Naharlagun - APSPCB",17-04-2026 07:00:00,27.103358,93.679645,PM10,29,140,72
+2026-04-17 02:45:05,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",17-04-2026 07:00:00,26.071318,91.87488,PM2.5,58,302,114
+2026-04-17 02:45:05,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",17-04-2026 07:00:00,26.071318,91.87488,SO2,18,33,30
+2026-04-17 02:45:05,India,Assam,Byrnihat,"Central Academy for SFS, Byrnihat - PCBA",17-04-2026 07:00:00,26.071318,91.87488,CO,42,103,72
+2026-04-17 02:45:05,India,Assam,Guwahati,"IITG, Guwahati - PCBA",17-04-2026 07:00:00,26.2028636,91.70046436,SO2,32,35,34
+2026-04-17 02:45:05,India,Bihar,Araria,"Kharahiya Basti, Araria - BSPCB",17-04-2026 07:00:00,26.146529,87.454184,OZONE,9,11,10
+2026-04-17 02:45:05,India,Bihar,Arrah,"New DM Office, Arrah - BSPCB",17-04-2026 07:00:00,25.5626095,84.663264,CO,40,68,51
+2026-04-17 02:45:05,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",17-04-2026 07:00:00,24.75746,84.366208,CO,73,103,98
+2026-04-17 02:45:05,India,Bihar,Aurangabad,"Gurdeo Nagar, Aurangabad - BSPCB",17-04-2026 07:00:00,24.75746,84.366208,OZONE,3,50,14
+2026-04-17 02:45:05,India,Bihar,Begusarai,"Lohiyanagar, Begusarai - BSPCB",17-04-2026 07:00:00,25.42742023,86.13886079,NO2,10,17,13
+2026-04-17 02:45:05,India,Bihar,Bettiah,"Kamalnath Nagar, Bettiah - BSPCB",17-04-2026 07:00:00,26.80365,84.51954,PM2.5,12,47,22
+2026-04-17 02:45:05,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",17-04-2026 07:00:00,24.792403,84.992416,PM2.5,55,337,186
+2026-04-17 02:45:05,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",17-04-2026 07:00:00,24.792403,84.992416,PM10,113,341,173
+2026-04-17 02:45:05,India,Bihar,Gaya,"Kareemganj, Gaya - BSPCB",17-04-2026 07:00:00,24.792403,84.992416,OZONE,19,136,38
+2026-04-17 02:45:05,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",17-04-2026 07:00:00,25.697189,85.245900,PM10,NA,NA,NA
+2026-04-17 02:45:05,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",17-04-2026 07:00:00,25.697189,85.245900,NO2,NA,NA,NA
+2026-04-17 02:45:05,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",17-04-2026 07:00:00,25.697189,85.245900,CO,19,28,27
+2026-04-17 02:45:05,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",17-04-2026 07:00:00,26.11442,85.39813,NH3,10,21,14
+2026-04-17 02:45:05,India,Bihar,Muzaffarpur,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",17-04-2026 07:00:00,26.1403345,85.3650192,NO2,4,11,7
+2026-04-17 02:45:05,India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",17-04-2026 07:00:00,14.675886,77.593027,PM2.5,45,305,86
+2026-04-17 02:45:05,India,Andhra_Pradesh,Eluru,"District Court, Eluru - APPCB",17-04-2026 07:00:00,16.711754,81.092095,PM10,33,70,49
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",17-04-2026 07:00:00,21.371751,81.664929,NO2,13,49,26
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",17-04-2026 07:00:00,21.371751,81.664929,CO,17,26,20
+2026-04-17 02:45:05,India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",17-04-2026 07:00:00,22.06631475,83.33820077,NH3,1,2,2
+2026-04-17 02:45:05,India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",17-04-2026 07:00:00,22.06631475,83.33820077,OZONE,23,96,33
+2026-04-17 02:45:05,India,Delhi,Delhi,"Alipur, Delhi - DPCC",17-04-2026 07:00:00,28.815329,77.153010,NO2,14,80,49
+2026-04-17 02:45:05,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",17-04-2026 07:00:00,28.647622,77.3158090,NH3,8,16,12
+2026-04-17 02:45:05,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",17-04-2026 07:00:00,28.647622,77.3158090,SO2,1,95,32
+2026-04-17 02:45:05,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",17-04-2026 07:00:00,28.647622,77.3158090,OZONE,NA,NA,NA
+2026-04-17 02:45:05,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",17-04-2026 07:00:00,28.695381,77.181665,NH3,6,7,6
+2026-04-17 02:45:05,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",17-04-2026 07:00:00,28.695381,77.181665,CO,10,126,73
+2026-04-17 02:45:05,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",17-04-2026 07:00:00,28.4706914,77.1099364,NO2,20,99,54
+2026-04-17 02:45:05,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",17-04-2026 07:00:00,22.1910172,83.5197009,PM2.5,NA,NA,NA
+2026-04-17 02:45:05,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",17-04-2026 07:00:00,22.1910172,83.5197009,NO2,NA,NA,NA
+2026-04-17 02:45:05,India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",17-04-2026 07:00:00,22.1910172,83.5197009,CO,NA,NA,NA
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",17-04-2026 07:00:00,21.258815,81.578979,PM2.5,20,52,34
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",17-04-2026 07:00:00,21.258815,81.578979,SO2,1,13,4
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",17-04-2026 07:00:00,21.258815,81.578979,CO,22,56,34
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",17-04-2026 07:00:00,21.219665,81.630094,PM10,36,103,71
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",17-04-2026 07:00:00,21.219665,81.630094,NH3,2,2,2
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",17-04-2026 07:00:00,21.219665,81.630094,CO,15,79,45
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",17-04-2026 07:00:00,21.237755,81.705301,PM2.5,38,103,57
+2026-04-17 02:45:05,India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",17-04-2026 07:00:00,21.237755,81.705301,CO,8,37,32
+2026-04-17 02:45:05,India,Chhattisgarh,Bhilai,"Civic Center, Bhilai - Bhilai Steel Plant",17-04-2026 07:00:00,21.185571,81.343175,OZONE,10,15,11
+2026-04-17 02:45:05,India,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",17-04-2026 07:00:00,21.224231,81.408350,PM10,22,76,50
+2026-04-17 02:45:05,India,Chhattisgarh,Bhilai,"Hathkhoj, Bhilai - CECB",17-04-2026 07:00:00,21.224231,81.408350,SO2,17,99,33
+2026-04-17 02:45:05,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",17-04-2026 07:00:00,22.08815,82.13737,SO2,7,27,16
